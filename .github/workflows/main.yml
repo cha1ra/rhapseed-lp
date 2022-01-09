@@ -32,4 +32,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
-          server-dir: ${{ secrets.FTP_DIR }}
+          server-dir: /home/aira0113/www/rhapseed/
