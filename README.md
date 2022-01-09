@@ -4,10 +4,9 @@
 
 # Rhapseed LP
 
-Rhapseed landing page based on Svelte
+Rhapseed landing page based on Svelte & Tailwind CSS
 [https://rhapseed.com/](https://rhapseed.com/)
-
-
+  
 ## Get started
 
 Install the dependencies...
