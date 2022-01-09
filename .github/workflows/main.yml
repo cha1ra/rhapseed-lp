@@ -5,7 +5,7 @@ on:
     branches:
       - main
 jobs:
-  FTP-Dep/loy-Action:
+  FTP-Deploy-Action:
     name: FTP-Deploy-Action
     runs-on: ubuntu-latest
     strategy:
